@@ -23,5 +23,7 @@
 ## 课程技能
 
 [数据分析](https://www.linkedin.com/learning/search?keywords=%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)
+
 [Microsoft Excel](https://www.linkedin.com/learning/search?keywords=Microsoft%20Excel)
+
 [数据可视化](https://www.linkedin.com/learning/search?keywords=%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96')
