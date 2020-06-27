@@ -88,7 +88,7 @@
 ### 课程技能
 [Microsoft Excel](https://www.linkedin.com/learning/search?keywords=Microsoft%20Excel)
 
-## Excel 2013: 高级公式与函数
+## [Excel 2013: 高级公式与函数](https://www.linkedin.com/learning/excel-2013-advanced-formulas-and-functions-2)
 ### Excel 2013 功能强大，除了基本操作之外，还有许多公式和函数值得学习和探索。在本课程中，我们将介绍一系列实用的高级公式和函数，以及如何对它们进行实际应用，提高工作效率。首先，他将介绍一些基础的内建功能和常用快捷键，帮助你提高 Excel的使用效率。接下来，他将介绍如何灵活运用高级搜索，使用 Lookup 功能提取数据，使用统计功能对数据进行制表和排序，使用文本和数学功能调整数据格式，以及使用高级公式处理财务数据。他将使用具体案例进行详细讲解，让你能够轻松掌握并灵活运用。
 
 ### 课程技能
